@@ -36,6 +36,11 @@ a:hover {
     border:0;
 }
 
+.menus_cards {
+    display: flex;
+
+}
+
 .bloc {
     width: 100%;
     clear: both;
