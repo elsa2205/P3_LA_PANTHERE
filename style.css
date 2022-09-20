@@ -377,6 +377,8 @@ a:hover {
 }
 
 @media (min-width: 768px) {
+    
+
     .site-navigation {
         position: absolute;
         top: 50%;
@@ -856,6 +858,11 @@ h4 {
 }
 
 @media (max-width: 1024px) {
+
+    .menus_cards {
+        display: inline;
+    }   
+
     .bloc {
         padding-left: 20px;
         padding-right: 20px;
@@ -871,6 +878,7 @@ h4 {
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
+     
     .navbar .nav {
         max-width: 80%
     }
